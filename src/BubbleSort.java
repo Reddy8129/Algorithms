@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class BubbleSort {
 	public static void main(String[] args) {
+		System.out.println("Java program to sort the numbers using Bubble sort");
 		Scanner scan = new Scanner(System.in);
 		System.out.println("Enter the size of array: ");
 		int n= scan.nextInt();
